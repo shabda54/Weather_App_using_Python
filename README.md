@@ -1,6 +1,8 @@
 # Weather_App_using_Python
 -It is a Weather GUI application made using Python
+
 -Made using tkinter and openweathermap API
+
 -Fetches the weather forcast based on the location (city) entered by the user
 NOTE: It requires the openweathermap's API key to run. Set the "key" variable inside weather_utils.py before running.
 
